@@ -39,7 +39,7 @@
 |:---:|
 ![image](https://github.com/shinjian/Lane-Detection/assets/75853990/1dbbc61f-7fc7-4032-b8a2-0aab2e35986c)
 
-Sliding Window 기법은 위 그림처럼 세 칸의 윈도우 크기(이하 "margin")를 정해주고 일정한 방향으로 윈도우(창)를 이동시켜가며 Maximum value를 중식으로 원하는 값이 제일 많이 분포하는 윈도우를 찾아가는 알고리즘이다.
+Sliding Window 기법은 위 그림처럼 세 칸의 윈도우 크기(이하 "margin")를 정해주고 일정한 방향으로 윈도우(창)를 이동시켜가며 Maximum value를 중식으로 원하는 값이 제일 많이 분포하는 윈도우를 찾아가는 알고리즘입니다.
 
 
 ## 1. Sliding Window를 위한 전처리 과정
