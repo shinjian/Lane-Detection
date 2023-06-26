@@ -1,6 +1,6 @@
 # Lane Detection Project 2022
 
-차량 주행 영상 기반 도로 차선 검출 프로젝트
+### 차량 주행 영상 기반 도로 차선 검출 프로젝트
 
 ---
 
@@ -13,9 +13,14 @@
 
 예전에 제작한 차선 검출 프로그램은 하프 변환 알고리즘을 기반으로 하기 때문에 곡선 부분의 차선은 검출하기 힘들었던 단점이 있었습니다. 이를 보완하고자 Sliding Window 알고리즘을 적용시켜 곡선 차선까지 검출하는데 성공했습니다.
 
-추후 여기서 더 나아가 YOLO v5 등을 이용하여 영상 속에 있는 차량들까지 감지해서 거리 계산 알고리즘 및 보행자 인식까지 적용시켜볼 계획입니다.
+추후 여기서 더 나아가 YOLO v5 등을 이용하여 영상 속에 있는 차량들까지 감지해서 거리 계산 알고리즘 및 보행자 인식까지 기대할 수 있을 것 같습니다.
 
----
+## Sliding Window Algorithm
+|Window position | Minimum value | Maximum value|
+|[1 3 -1] -3 5 3 6 7 | -1 | 3|
+
+
+
 
 ## Development environment
 - Visual Studio Code
@@ -27,3 +32,10 @@
     - ```python -m pip install opencv-python```
 - Numpy Library
     - ```pip install numpy```
+
+---
+
+## Reference
+- Navigational Path Detection Using Fuzzy Binarization and
+Hough Transfor - [Korea Science](http://koreascience.or.kr/article/JAKO201408739560207.page)
+- Sliding Window Algorithm - [POJ](http://poj.org/problem?id=2823)
