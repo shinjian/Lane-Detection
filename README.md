@@ -60,7 +60,7 @@ Sliding Window 기법은 위 그림처럼 세 칸의 윈도우 크기(이하 "ma
 
 ---
 
-## Reference
+## References
 - Navigational Path Detection Using Fuzzy Binarization and
 Hough Transfor - [Korea Science](http://koreascience.or.kr/article/JAKO201408739560207.page)
 - Sliding Window Algorithm - [POJ](http://poj.org/problem?id=2823)
