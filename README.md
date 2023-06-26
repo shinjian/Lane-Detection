@@ -2,9 +2,9 @@
 
 ### 차량 주행 영상 기반 도로 차선 검출 프로젝트
 
+<img src="https://github.com/shinjian/Lane-Detection/assets/75853990/081364e6-9214-487e-93f2-c0a83ed73c8b" width="45%" height="45%"/>
 <img src="https://github.com/shinjian/Lane-Detection/assets/75853990/f67627e0-30db-4d74-ba96-ce3bd7f3eb6d" width="45%" height="45%"/>
 <img src="https://github.com/shinjian/Lane-Detection/assets/75853990/07e75318-b179-4ea5-a12d-0e31e5a88579" width="45%" height="45%"/>
-<img src="https://github.com/shinjian/Lane-Detection/assets/75853990/081364e6-9214-487e-93f2-c0a83ed73c8b" width="45%" height="45%"/>
 
 ---
 
