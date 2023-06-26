@@ -29,7 +29,7 @@
 - OpencCV 4.5.5
     - ```pip install opencv-python```
     - ```python -m pip install opencv-python```
-- Numpy Library
+- Numpy Library 1.22.1
     - ```pip install numpy```
 
 ---
