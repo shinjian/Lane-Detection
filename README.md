@@ -6,7 +6,7 @@
 https://github.com/shinjian/Lane-Detection/assets/75853990/5be685a9-aadc-4c28-9fd9-2d2c79a95aa2
 
 
-<img src="Sliding window2.gif" width="45%" height="45%"/>
+<img src="https://github.com/shinjian/Lane-Detection/assets/75853990/081364e6-9214-487e-93f2-c0a83ed73c8b" width="45%" height="45%"/>
 
 ---
 
