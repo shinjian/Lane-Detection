@@ -37,24 +37,24 @@
 ## Sliding Window Algorithm
 |Sliding Window[.](http://poj.org/problem?id=2823)|
 |:---:|
-![Alt text](image.png)
+![image](https://github.com/shinjian/Lane-Detection/assets/75853990/1dbbc61f-7fc7-4032-b8a2-0aab2e35986c)
 
 Sliding Window 기법은 위 그림처럼 세 칸의 윈도우 크기(이하 "margin")를 정해주고 일정한 방향으로 윈도우(창)를 이동시켜가며 Maximum value를 중식으로 원하는 값이 제일 많이 분포하는 윈도우를 찾아가는 알고리즘이다.
 
 
 ## 1. Sliding Window를 위한 전처리 과정
-<img src="1.jpg" width="40%" height="40%"/><img src="1111111111111111.png" width="40%" height="40%"/>
+<img src="https://github.com/shinjian/Lane-Detection/assets/75853990/ca35dcef-ccce-4a0b-b7c7-dce0884e585e" width="40%" height="40%"/><img src="https://github.com/shinjian/Lane-Detection/assets/75853990/ad28aef2-add3-4f76-a553-29b449a22eb3" width="40%" height="40%"/>
 
 ## 2. 이미지에 대한 Histogram으로 Window의 시작점을 정함
-<img src="21.png" width="40%" height="40%"/>
-<img src="Figure_1.png" width="32.56%" height="32%"/>
+<img src="https://github.com/shinjian/Lane-Detection/assets/75853990/4ca9192b-2250-4086-a030-d2652943daea" width="40%" height="40%"/>
+<img src="https://github.com/shinjian/Lane-Detection/assets/75853990/3fc032fd-46f5-448d-a228-631b55c70920" width="32.56%" height="32%"/>
 
 ## 3. Sliding Window Algorithm 적용
-<img src="Sliding window2_Moment.jpg" width="40%" height="40%"/>
-<img src="Sliding window_Moment.jpg" width="40%" height="40%"/>
+<img src="https://github.com/shinjian/Lane-Detection/assets/75853990/b9fc4b52-b4a0-4edb-b43e-89f8efa534f7" width="40%" height="40%"/>
+<img src="https://github.com/shinjian/Lane-Detection/assets/75853990/384ad8ac-3d1f-4b76-ba3a-e34826883cb9" width="40%" height="40%"/>
 
 ## 도로 주행영상 차선 검출 결과
-<img src="Lane detection_Moment.jpg" width="60%" height="60%"/>
+<img src="https://github.com/shinjian/Lane-Detection/assets/75853990/33ed103e-edb9-446c-8fcb-45cfbdd7e077" width="60%" height="60%"/>
 
 
 
