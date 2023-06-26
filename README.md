@@ -1,11 +1,8 @@
 # Lane Detection Project 2022
 
 ### 차량 주행 영상 기반 도로 차선 검출 프로젝트
-![Sliding window](https://github.com/shinjian/Lane-Detection/assets/75853990/b8c49c95-adde-4239-a8fa-1bdda54f66cf)
 
-https://github.com/shinjian/Lane-Detection/assets/75853990/5be685a9-aadc-4c28-9fd9-2d2c79a95aa2
-
-
+<img src="https://github.com/shinjian/Lane-Detection/assets/75853990/07e75318-b179-4ea5-a12d-0e31e5a88579" width="45%" height="45%"/>
 <img src="https://github.com/shinjian/Lane-Detection/assets/75853990/081364e6-9214-487e-93f2-c0a83ed73c8b" width="45%" height="45%"/>
 
 ---
