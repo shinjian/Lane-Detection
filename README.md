@@ -15,12 +15,7 @@
 
 추후 여기서 더 나아가 YOLO v5 등을 이용하여 영상 속에 있는 차량들까지 감지해서 거리 계산 알고리즘 및 보행자 인식까지 기대할 수 있을 것 같습니다.
 
-## Sliding Window Algorithm
-|Window position | Minimum value | Maximum value|
-|[1 3 -1] -3 5 3 6 7 | -1 | 3|
-
-
-
+---
 
 ## Development environment
 - Visual Studio Code
@@ -32,6 +27,21 @@
     - ```python -m pip install opencv-python```
 - Numpy Library
     - ```pip install numpy```
+
+---
+
+## Sliding Window Algorithm
+|Sliding Window[.](http://poj.org/problem?id=2823)|
+|:---:|
+![Alt text](image.png)
+
+Sliding Window 기법은 위 그림처럼 세 칸의 윈도우 크기(이하 "margin")를 정해주고 일정한 방향으로 윈도우(창)를 이동시켜가며 Maximum value를 중식으로 원하는 값이 제일 많이 분포하는 윈도우를 찾아가는 알고리즘이다.
+
+
+## Sliding Window를 위한 전처리 과정
+<img src="1.jpg" width="40%" height="40%"/><img src="1111111111111111.png" width="40%" height="40%"/>
+## 이미지에 대한 Histogram으로 Window의 시작점을 정함
+
 
 ---
 
